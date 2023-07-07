@@ -1,5 +1,4 @@
-![MasterHead](https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e)
----
+
 [![](https://visitcount.itsvg.in/api?id=paudelb36&icon=0&color=0)](https://visitcount.itsvg.in)
 <h1 align="center">Hi 👋, I'm Bibek Paudel</h1>
 <h3 align="center">a computer science student in my fourth semester.</h3>
