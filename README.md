@@ -4,7 +4,7 @@
 <h3 align="center">a BCA student.</h3>
 
 # 💫 About Me:
-🔭 I’m currently doing laravel project.<br><br>🌱 I’m currently learning MERN stack<br><br>📫 How to reach me paudelb11@gmail.com
+🔭 I’m currently doing ________ .<br><br>🌱 I’m currently learning ________<br><br>📫 How to reach me paudelb11@gmail.com
 
 
 ## 🌐 Socials:
