@@ -1,7 +1,7 @@
 
 [![](https://visitcount.itsvg.in/api?id=paudelb36&icon=0&color=0)](https://visitcount.itsvg.in)
 <h1 align="center">Hi 👋, I'm Bibek Paudel</h1>
-<h3 align="center">a BCA student.</h3>
+<h3 align="center">a Tech Enthusiast</h3>
 
 # 💫 About Me:
 🔭 I’m currently doing ________ .<br><br>🌱 I’m currently learning ________<br><br>📫 How to reach me paudelb11@gmail.com
