@@ -1,5 +1,4 @@
-# 💫 About Me:
-🔭 I’m currently pursuing my Bachelor's degree in Computer Application at Tribhuvan University, Nepal.<br>🌱 I’m currently learning React and diving deep into the world of web development.<br>📫 How to reach me: [paudelb11@gmail.com](mailto:paudelb11@gmail.com)
+
 
 
 ## 🌐 Socials:
