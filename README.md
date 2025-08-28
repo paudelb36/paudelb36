@@ -1,17 +1,72 @@
+<h1 align="center">Hi 👋, I'm Bibek Paudel</h1>
+<h3 align="center">🚀 Building for Web | 💻 BCA Student @ Tribhuvan University | 🌱 Aspiring Software Engineer</h3>
 
-
-
-## 🌐 Socials:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/bebek.paudell) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/paudelb_) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bibek-paudel-06b53821b/) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://www.reddit.com/user/PaudelB/) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/bebekpaudel) 
-
-
-
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=paudelb36&theme=radical&hide_border=false&include_all_commits=false&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=paudelb36&theme=radical&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=paudelb36&theme=radical&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=paudelb36&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 🌐 Connect with me
+<p align="center">
+  <a href="https://www.linkedin.com/in/bibek-paudel-06b53821b/" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="30" width="40" />
+  </a>
+  <a href="https://facebook.com/bebek.paudell" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="facebook" height="30" width="40" />
+  </a>
+  <a href="https://instagram.com/paudelb_" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="instagram" height="30" width="40" />
+  </a>
+  <a href="https://x.com/bebekpaudel" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="twitter" height="30" width="40" />
+  </a>
+  <a href="https://www.reddit.com/user/PaudelB/" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/reddit.svg" alt="reddit" height="30" width="40" />
+  </a>
+</p>
+
+---
+
+## 📝 Languages & Frameworks
+<p align="center"> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="40" height="40" style="background:white; padding:5px; border-radius:8px;"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="40" height="40" style="background:white; padding:5px; border-radius:8px;"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40" style="background:white; padding:5px; border-radius:8px;"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" width="40" height="40" style="background:white; padding:5px; border-radius:8px;"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="40" height="40" style="background:white; padding:5px; border-radius:8px;"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" width="40" height="40" style="background:white; padding:5px; border-radius:8px;"/>
+  <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" width="40" height="40" style="background:white; padding:5px; border-radius:8px;"/>
+  <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="40" height="40" style="background:white; padding:5px; border-radius:8px;"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="40" height="40" style="background:white; padding:5px; border-radius:8px;"/>
+</p>
+
+---
+
+## 🛠️ Tools & Databases
+<p align="center"> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40" height="40" style="background:white; padding:5px; border-radius:8px;"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" width="40" height="40" style="background:white; padding:5px; border-radius:8px;"/>
+  <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" width="40" height="40" style="background:white; padding:5px; border-radius:8px;"/>
+  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40" height="40" style="background:white; padding:5px; border-radius:8px;"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="40" height="40" style="background:white; padding:5px; border-radius:8px;"/>
+  <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="40" height="40" style="background:white; padding:5px; border-radius:8px;"/>
+  <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" width="40" height="40" style="background:white; padding:5px; border-radius:8px;"/>
+</p>
+
+---
+
+## 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=paudelb36&theme=radical&show_icons=true&hide_border=false&count_private=true" height="160px"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=paudelb36&show_icons=true&locale=en&layout=compact&theme=radical" height="160px"/>
+</p>
+
+---
+
+## 🔥 Commit Streak
+<p align="center">
+  <a href="https://git.io/streak-stats">
+    <img src="https://streak-stats.demolab.com?user=paudelb36&theme=radical&hide_border=false" alt="GitHub Streak"/>
+  </a>
+</p>
+
+---
+
