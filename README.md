@@ -52,14 +52,6 @@
 
 ---
 
-## 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=paudelb36&theme=radical&show_icons=true&hide_border=false&count_private=true" height="160px" style="margin:10px;"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=paudelb36&show_icons=true&locale=en&layout=compact&theme=radical" height="160px" style="margin:10px;"/>
-</p>
-
----
-
 ## 🔥 Commit Streak
 <p align="center">
   <a href="https://git.io/streak-stats">
