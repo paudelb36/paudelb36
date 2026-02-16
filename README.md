@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Bibek Paudel</h1>
-<h3 align="center">🚀 Building for Web | 💻 BCA Student @ Tribhuvan University | 🌱 Aspiring Software Engineer</h3>
+<h3 align="center">🚀 Building for Web | 💻 BCA graduate from Tribhuvan University | 🌱 Web Developer</h3>
 
 ---
 
