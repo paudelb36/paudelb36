@@ -1,62 +1,75 @@
 <h1 align="center">Hi 👋, I'm Bibek Paudel</h1>
-<h3 align="center">🚀 Building for Web | 💻 BCA graduate from Tribhuvan University | 🌱 Web Developer</h3>
+<h3 align="center">
+  🚀 Web Developer | 💻 BCA Graduate from Tribhuvan University <br/>
+  🌱 Passionate about building scalable and modern web applications
+</h3>
 
 ---
 
 ## 🌐 Connect with me
 <p align="center">
-  <a href="https://www.linkedin.com/in/bibek-paudel-06b53821b/" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="30" width="40" style="margin: 0 10px;" />
+  <a href="https://www.linkedin.com/in/bibek-paudel-06b53821b/">
+    <img src="https://img.icons8.com/color/48/linkedin.png" width="30"/>
   </a>
-  <a href="https://facebook.com/bebek.paudell" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="facebook" height="30" width="40" style="margin: 0 10px;" />
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://facebook.com/bebek.paudell">
+    <img src="https://img.icons8.com/color/48/facebook.png" width="30"/>
   </a>
-  <a href="https://instagram.com/paudelb_" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="instagram" height="30" width="40" style="margin: 0 10px;" />
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://instagram.com/paudelb_">
+    <img src="https://img.icons8.com/color/48/instagram-new.png" width="30"/>
   </a>
-  <a href="https://x.com/bebekpaudel" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="twitter" height="30" width="40" style="margin: 0 10px;" />
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://x.com/bebekpaudel">
+    <img src="https://img.icons8.com/color/48/twitter--v1.png" width="30"/>
   </a>
-  <a href="https://www.reddit.com/user/PaudelB/" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/reddit.svg" alt="reddit" height="30" width="40" style="margin: 0 10px;" />
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://www.reddit.com/user/PaudelB/">
+    <img src="https://img.icons8.com/color/48/reddit.png" width="30"/>
   </a>
 </p>
+---
+
+## 🧠 About Me
+- 🎯 Focused on becoming a **high-level software engineer**
+- ⚡ Building projects with **React, Next.js, and modern web technologies**
+- 🛠️ Experienced with **WordPress, PHP, and MySQL**
+- 🎨 Strong interest in **UI/UX design and clean, premium interfaces**
+- 🚀 Always learning, building, and improving
 
 ---
 
-## 📝 Languages & Frameworks
+## 📝 Tech Stack
 <p align="center"> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="40" height="40" style="background:white; padding:5px; border-radius:8px; margin:10px;"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="40" height="40" style="background:white; padding:5px; border-radius:8px; margin:10px;"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40" style="background:white; padding:5px; border-radius:8px; margin:10px;"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" width="40" height="40" style="background:white; padding:5px; border-radius:8px; margin:10px;"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="40" height="40" style="background:white; padding:5px; border-radius:8px; margin:10px;"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" width="40" height="40" style="background:white; padding:5px; border-radius:8px; margin:10px;"/>
-  <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" width="40" height="40" style="background:white; padding:5px; border-radius:8px; margin:10px;"/>
-  <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="40" height="40" style="background:white; padding:5px; border-radius:8px; margin:10px;"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="40" height="40" style="background:white; padding:5px; border-radius:8px; margin:10px;"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" width="40"/>
+  <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" width="40"/>
+  <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="40"/>
 </p>
 
 ---
 
 ## 🛠️ Tools & Databases
 <p align="center"> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40" height="40" style="background:white; padding:5px; border-radius:8px; margin:10px;"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" width="40" height="40" style="background:white; padding:5px; border-radius:8px; margin:10px;"/>
-  <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" width="40" height="40" style="background:white; padding:5px; border-radius:8px; margin:10px;"/>
-  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40" height="40" style="background:white; padding:5px; border-radius:8px; margin:10px;"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="40" height="40" style="background:white; padding:5px; border-radius:8px; margin:10px;"/>
-  <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="40" height="40" style="background:white; padding:5px; border-radius:8px; margin:10px;"/>
-  <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" width="40" height="40" style="background:white; padding:5px; border-radius:8px; margin:10px;"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" width="40"/>
+  <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" width="40"/>
+  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="40"/>
+  <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="40"/>
+  <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" width="40"/>
 </p>
 
 ---
 
-## 🔥 Commit Streak
+## 🔥 GitHub Activity
 <p align="center">
-  <a href="https://git.io/streak-stats">
-    <img src="https://streak-stats.demolab.com?user=paudelb36&theme=radical&hide_border=false" alt="GitHub Streak" style="margin:10px;"/>
-  </a>
+  <img src="https://streak-stats.demolab.com?user=paudelb36&theme=radical&hide_border=false"/>
 </p>
 
 ---
