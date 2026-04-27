@@ -52,60 +52,37 @@ Still learning, still improving — just building consistently.
 
 ---
 
-## 🧰 Core Stack
+## 🛠 What I Work With
 
 <p align="center">
 
-<img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" width="45"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="45"/>
-<img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="45"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="45"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="45"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="45"/>
+<img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" width="40" style="margin: 8px"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="40" style="margin: 8px"/>
+<img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="40" style="margin: 8px"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" style="margin: 8px"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="40" style="margin: 8px"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="40" style="margin: 8px"/>
 
-</p>
+<img src="https://cdn.worldvectorlogo.com/logos/sanity-1.svg" width="38" style="margin: 8px"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/wordpress/wordpress-original.svg" width="38" style="margin: 8px"/>
 
----
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" width="40" style="margin: 8px"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40" style="margin: 8px"/>
+<img src="https://www.vectorlogo.zone/logos/supabase/supabase-icon.svg" width="38" style="margin: 8px"/>
 
-## 🧩 CMS & Platforms
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="38" style="margin: 8px"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="38" style="margin: 8px"/>
+<img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" width="38" style="margin: 8px"/>
 
-<p align="center">
-
-<img src="https://cdn.worldvectorlogo.com/logos/sanity-1.svg" width="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/wordpress/wordpress-original.svg" width="40"/>
-
-</p>
-
----
-
-## 🛠 Backend & Database
-
-<p align="center">
-
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" width="45"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="45"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" width="45"/>
-<img src="https://www.vectorlogo.zone/logos/supabase/supabase-icon.svg" width="40"/>
-
-</p>
-
----
-
-## ☁️ Deployment & Hosting
-
-<p align="center">
-
-<img src="https://www.vectorlogo.zone/logos/vercel/vercel-icon.svg" width="40"/>
-<img src="https://www.vectorlogo.zone/logos/netlify/netlify-icon.svg" width="40"/>
-<img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg" width="40"/>
+<img src="https://www.vectorlogo.zone/logos/vercel/vercel-icon.svg" width="38" style="margin: 8px"/>
+<img src="https://www.vectorlogo.zone/logos/netlify/netlify-icon.svg" width="38" style="margin: 8px"/>
+<img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg" width="38" style="margin: 8px"/>
 
 </p>
 
 <p align="center">
-  ⚡ Vercel • Netlify • AWS Lightsail
+Next.js • React • Tailwind • JavaScript • PHP • MySQL • Supabase • Sanity • WordPress • Git • Figma • Vercel • Netlify • AWS
 </p>
-
----
 
 ## 🎨 Tools & Workflow
 
@@ -130,23 +107,6 @@ Still learning, still improving — just building consistently.
 </p>
 
 ---
-
-## 💭 Developer Philosophy
-
-> I don’t just build features —  
-> I build systems that are scalable, maintainable, and enjoyable to use.
-
----
-
-## 🚀 Future Direction
-
-- 🧠 System Design & Architecture
-- 🌍 Scalable Full-Stack Applications
-- 💼 Real-world impactful products
-- 🔥 High-quality UI + Performance-focused builds
-
----
-
 <p align="center">
   ⭐ Check out my repositories and let's build something great.
 </p>
