@@ -56,32 +56,28 @@ Still learning, still improving — just building consistently.
 
 <p align="center">
 
-<img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" width="40" style="margin: 8px"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="40" style="margin: 8px"/>
-<img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="40" style="margin: 8px"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" style="margin: 8px"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="40" style="margin: 8px"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="40" style="margin: 8px"/>
+<img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" width="40" style="margin: 8px" title="Next.js"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="40" style="margin: 8px" title="React"/>
+<img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="40" style="margin: 8px" title="Tailwind CSS"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" style="margin: 8px" title="JavaScript"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="40" style="margin: 8px" title="HTML5"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="40" style="margin: 8px" title="CSS3"/>
 
-<img src="https://cdn.worldvectorlogo.com/logos/sanity-1.svg" width="38" style="margin: 8px"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/wordpress/wordpress-original.svg" width="38" style="margin: 8px"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sanity/sanity-original.svg" width="38" style="margin: 8px" title="Sanity"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/wordpress/wordpress-original.svg" width="38" style="margin: 8px" title="WordPress"/>
 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" width="40" style="margin: 8px"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40" style="margin: 8px"/>
-<img src="https://www.vectorlogo.zone/logos/supabase/supabase-icon.svg" width="38" style="margin: 8px"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" width="40" style="margin: 8px" title="PHP"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40" style="margin: 8px" title="MySQL"/>
+<img src="https://www.vectorlogo.zone/logos/supabase/supabase-icon.svg" width="38" style="margin: 8px" title="Supabase"/>
 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="38" style="margin: 8px"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="38" style="margin: 8px"/>
-<img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" width="38" style="margin: 8px"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="38" style="margin: 8px" title="Git"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="38" style="margin: 8px" title="GitHub"/>
+<img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" width="38" style="margin: 8px" title="Figma"/>
 
-<img src="https://www.vectorlogo.zone/logos/vercel/vercel-icon.svg" width="38" style="margin: 8px"/>
-<img src="https://www.vectorlogo.zone/logos/netlify/netlify-icon.svg" width="38" style="margin: 8px"/>
-<img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg" width="38" style="margin: 8px"/>
+<img src="https://www.vectorlogo.zone/logos/vercel/vercel-icon.svg" width="38" style="margin: 8px" title="Vercel"/>
+<img src="https://www.vectorlogo.zone/logos/netlify/netlify-icon.svg" width="38" style="margin: 8px" title="Netlify"/>
+<img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg" width="38" style="margin: 8px" title="AWS"/>
 
-</p>
-
-<p align="center">
-Next.js • React • Tailwind • JavaScript • PHP • MySQL • Supabase • Sanity • WordPress • Git • Figma • Vercel • Netlify • AWS
 </p>
 
 ## 🎨 Tools & Workflow
