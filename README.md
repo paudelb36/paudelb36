@@ -8,7 +8,7 @@
 <p align="center">
   Mostly working with Next.js, React, and whatever gets the job done.
 </p>
----
+
 
 <!-- SOCIALS -->
 <p align="center">
