@@ -1,18 +1,16 @@
 <!-- HERO -->
-<h1 align="center">Hey 👋 I'm Bibek Paudel</h1>
+<h1 align="center">Hey 👋 I'm Bibek</h1>
 
 <p align="center">
-  🚀 Web Developer • 💻 BCA Graduate • 🇳🇵 Based in Nepal  
+  I build things for the web.
 </p>
 
 <p align="center">
-  I build modern, scalable, and visually premium web experiences.<br/>
-  Focused on clean UI, strong architecture, and real-world impact.
+  Mostly working with Next.js, React, and whatever gets the job done.
 </p>
-
 ---
 
-<!-- QUICK LINKS -->
+<!-- SOCIALS -->
 <p align="center">
   <a href="https://www.linkedin.com/in/bibek-paudel-06b53821b/">
     <img src="https://img.icons8.com/color/48/linkedin.png" width="28"/>
@@ -29,65 +27,92 @@
   <a href="https://x.com/bebekpaudel">
     <img src="https://img.icons8.com/color/48/twitter--v1.png" width="28"/>
   </a>
-  &nbsp;
-  <a href="https://www.reddit.com/user/PaudelB/">
-    <img src="https://img.icons8.com/color/48/reddit.png" width="28"/>
-  </a>
 </p>
 
 ---
 
-## 🧠 Who I Am
+## 🧠 About Me
 
-- 🎯 On a mission to become a **top-tier software engineer**
-- 💡 Passionate about building **real-world, production-ready applications**
-- 🎨 Obsessed with **clean UI, typography, and premium design**
-- ⚙️ Love working across **frontend + backend**
-- 📈 Constantly improving — code, design, and thinking
+I build stuff.
 
----
+Mostly web apps, websites, and systems that people can actually use.
 
-## ⚡ What I’m Doing Right Now
+Right now I’m working with Next.js, React, and modern tools to create clean and functional products.  
+I also handle backend when needed — databases, APIs, and integrations.
 
-- 🚀 Building with **Next.js & modern frontend stacks**
-- 🧩 Working on **real business projects (ERP, websites, automation)**
-- 🛠️ Improving **system design & scalability mindset**
-- 🎯 Turning ideas into **impactful digital products**
+Still learning, still improving — just building consistently.
 
 ---
 
-## 🧰 Tech Stack
+## ⚡ Current Focus
+
+- Building with Next.js & React  
+- Working on real-world projects  
+- Learning by doing  
+
+---
+
+## 🧰 Core Stack
 
 <p align="center">
 
+<img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" width="45"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="45"/>
+<img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="45"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="45"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="45"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="45"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="45"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="45"/>
-<img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" width="45"/>
-<img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="45"/>
 
 </p>
+
+---
+
+## 🧩 CMS & Platforms
+
+<p align="center">
+
+<img src="https://cdn.worldvectorlogo.com/logos/sanity-1.svg" width="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/wordpress/wordpress-original.svg" width="40"/>
+
+</p>
+
+---
+
+## 🛠 Backend & Database
 
 <p align="center">
 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" width="45"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="45"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="45"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" width="45"/>
+<img src="https://www.vectorlogo.zone/logos/supabase/supabase-icon.svg" width="40"/>
 
 </p>
 
 ---
 
-## 🛠 Tools I Use
+## ☁️ Deployment & Hosting
+
+<p align="center">
+
+<img src="https://www.vectorlogo.zone/logos/vercel/vercel-icon.svg" width="40"/>
+<img src="https://www.vectorlogo.zone/logos/netlify/netlify-icon.svg" width="40"/>
+<img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg" width="40"/>
+
+</p>
+
+<p align="center">
+  ⚡ Vercel • Netlify • AWS Lightsail
+</p>
+
+---
+
+## 🎨 Tools & Workflow
 
 <p align="center">
 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="40"/>
-<img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="40"/>
-<img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" width="40"/>
 <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" width="40"/>
 
 </p>
@@ -106,21 +131,22 @@
 
 ---
 
-## 💭 Developer Mindset
+## 💭 Developer Philosophy
 
-> “Not just writing code — building systems that scale, perform, and feel great to use.”
+> I don’t just build features —  
+> I build systems that are scalable, maintainable, and enjoyable to use.
 
 ---
 
-## 🚀 Future Goals
+## 🚀 Future Direction
 
-- 🧠 Master **system design & architecture**
-- 🌍 Build **products used by thousands**
-- 💼 Grow into a **high-impact software engineer**
-- 🔥 Create projects that stand out globally
+- 🧠 System Design & Architecture
+- 🌍 Scalable Full-Stack Applications
+- 💼 Real-world impactful products
+- 🔥 High-quality UI + Performance-focused builds
 
 ---
 
 <p align="center">
-  ⭐ If you like what I do, feel free to explore my repositories!
+  ⭐ Check out my repositories and let's build something great.
 </p>
