@@ -63,7 +63,7 @@ Still learning, still improving — just building consistently.
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="40" style="margin: 8px" title="HTML5"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="40" style="margin: 8px" title="CSS3"/>
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sanity/sanity-original.svg" width="38" style="margin: 8px" title="Sanity"/>
+<img src="https://cdn.simpleicons.org/sanity" width="38" style="margin: 8px" title="Sanity"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/wordpress/wordpress-original.svg" width="38" style="margin: 8px" title="WordPress"/>
 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" width="40" style="margin: 8px" title="PHP"/>
