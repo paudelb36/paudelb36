@@ -38,9 +38,9 @@ I build stuff.
 Mostly web apps, websites, and systems that people can actually use.
 
 Right now I’m working with Next.js, React, and modern tools to create clean and functional products.  
-I also handle backend when needed — databases, APIs, and integrations.
+I also handle backend when needed - databases, APIs, and integrations.
 
-Still learning, still improving — just building consistently.
+Still learning, still improving - just building consistently.
 
 ---
 
