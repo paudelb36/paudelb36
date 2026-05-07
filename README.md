@@ -93,9 +93,9 @@ Still learning, still improving - just building consistently.
   <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=paudelb36&theme=dark" alt="GitHub Streak" /></a>
 </p>
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=paudelb36&show_icons=true&theme=radical&hide_border=true"/>
-</p>
+</p> -->
 
 ---
 <p align="center">
