@@ -90,7 +90,7 @@ Still learning, still improving - just building consistently.
 ## 🔥 GitHub Stats
 
 <p align="center">
-  <img src="[https://streak-stats.demolab.com?user=paudelb36&theme=radical&hide_border=true](https://streak-stats.demolab.com?user=paudelb36&theme=dark)"/>
+  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=paudelb36&theme=dark" alt="GitHub Streak" /></a>
 </p>
 
 <p align="center">
