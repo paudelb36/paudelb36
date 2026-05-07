@@ -77,16 +77,10 @@ Still learning, still improving - just building consistently.
 <img src="https://www.vectorlogo.zone/logos/vercel/vercel-icon.svg" width="38" style="margin: 8px" title="Vercel"/>
 <img src="https://www.vectorlogo.zone/logos/netlify/netlify-icon.svg" width="38" style="margin: 8px" title="Netlify"/>
 <img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg" width="38" style="margin: 8px" title="AWS"/>
-
-</p>
-
-## 🎨 Tools & Workflow
-
-<p align="center">
-
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="40"/>
-<img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" width="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="38" style="margin: 8px" title="Git"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="38" style="margin: 8px" title="Github"/>
+<img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" width="38" style="margin: 8px" title="Figma"/>
+<img src="https://www.vectorlogo.zone/logos/canva/canva-icon.svg" width="38" style="margin: 8px" title="Canva"/>
 
 </p>
 
