@@ -69,7 +69,8 @@ Still learning, still improving - just building consistently.
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" width="40" style="margin: 8px" title="PHP"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40" style="margin: 8px" title="MySQL"/>
 <img src="https://www.vectorlogo.zone/logos/supabase/supabase-icon.svg" width="38" style="margin: 8px" title="Supabase"/>
-
+</p>
+<p align="center">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="38" style="margin: 8px" title="Git"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="38" style="margin: 8px" title="GitHub"/>
 <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" width="38" style="margin: 8px" title="Figma"/>
@@ -89,7 +90,7 @@ Still learning, still improving - just building consistently.
 ## 🔥 GitHub Stats
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=paudelb36&theme=radical&hide_border=true"/>
+  <img src="[https://streak-stats.demolab.com?user=paudelb36&theme=radical&hide_border=true](https://streak-stats.demolab.com?user=paudelb36&theme=dark)"/>
 </p>
 
 <p align="center">
