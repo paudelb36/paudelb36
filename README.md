@@ -6,7 +6,7 @@
 </p>
 
 <p align="center">
-  Mostly working with Next.js, React, and whatever gets the job done.
+  Mostly working with Next.js, Wordpress, and whatever gets the job done.
 </p>
 
 
@@ -37,16 +37,18 @@ I build stuff.
 
 Mostly web apps, websites, and systems that people can actually use.
 
-Right now I’m working with Next.js, React, and modern tools to create clean and functional products.  
-I also handle backend when needed - databases, APIs, and integrations.
+Right now I’m working with Next.js, WordPress, Sanity and modern tools to create clean and functional products.  
+I also work on custom WordPress theme development, turning designs into fast, responsive, and manageable websites.
 
-Still learning, still improving - just building consistently.
+I handle backend when needed — databases, APIs, CMS setup, and integrations.
+
+Learning, Improving — just building consistently.
 
 ---
 
 ## ⚡ Current Focus
 
-- Building with Next.js & React  
+- Building with Next.js & Wordpress  
 - Working on real-world projects  
 - Learning by doing  
 
